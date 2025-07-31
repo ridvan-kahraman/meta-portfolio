@@ -13,23 +13,25 @@ Publicly available roadmap projects I follow weekly on GitHub:
 - **Industrial Fullstack Developer Roadmap (8 + 28 Months)**
 Covers C#, .NET, CODESYS, IoT, SCADA, and Computer Vision with a structured monthly curriculum.
 
-### 🔹 2. Daily Private Contribution Logs (`daily-log/`)
+- My learning roadmap and public progress are tracked separately in a public GitHub repository:
+🔗 [**Industrial Fullstack Developer Roadmap**](https://github.com/ridvan-kahraman/industrial-fullstack-roadmap)
+
+### 🔹 2. Daily Private Contribution Logs (`daily_log/`)
 My daily contributions to private company projects are summarized here.  
 **Source code is not shared**, but logs indicate which modules were worked on and what types of commits were made.
 
 Example Log:
 ```markdown
-🗓️ 2025-08-01
+# 🗂️ Daily Contribution Log — [August 2025]
+
+## 🗓️ 2025-08-01
 - ✅ Commit: Added `FB_SensDiagBool` —  Universal Sensor Diagnostic Block for Digital/Analog Sensors
 - 🔐 Project: Fire Truck TTL32 Automation Software Project (SIL2-Ready Application Architecture)
 - 🧩 Layer: InputService > SensorLib > FB_SensDiagBool
 ```
 
-### 🔹 3. Industrial Project Notes
+### 🔹 3. Industrial Project Notes (`industrial_project_notes/`)
 Architecture diagrams, module dependencies, and version history related to projects like Fire Truck TTL32, CANOpen Safety, SCADA HMI, and Sensor Diagnostics.
-
-### 🔹 4. Documentation & References
-The `docs/` folder includes project licenses, architectural decisions, and compliance materials for standards such as IEC 61508 and SIL-2.
 
 ---
 
