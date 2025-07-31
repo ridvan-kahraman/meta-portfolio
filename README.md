@@ -23,6 +23,7 @@ Example Log:
 - ✅ Commit: Added `FB_SensDiagBool` —  Universal Sensor Diagnostic Block for Digital/Analog Sensors
 - 🔐 Project: Fire Truck TTL32 Automation Software Project (SIL2-Ready Application Architecture)
 - 🧩 Layer: InputService > SensorLib > FB_SensDiagBool
+```
 
 ### 🔹 3. Industrial Project Notes
 Architecture diagrams, module dependencies, and version history related to projects like Fire Truck TTL32, CANOpen Safety, SCADA HMI, and Sensor Diagnostics.
