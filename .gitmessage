@@ -1,0 +1,36 @@
+# <Type>(<Scope>): <Short Summary>
+#
+# Examples:
+#
+# Feat(Auth): Add Login Form Validation for Admin and Guest Users
+# Fix(Api): Resolve Timeout Issue on FetchUser
+#
+# The subject line should be under 50 characters.
+# Start with a lowercase verb in imperative mood.
+# Leave the second line empty.
+# Use the third line onward for detailed description.
+#
+# Common Types:
+#
+# Feat      → New Feature
+# Fix       → Bug Fix
+# Docs      → Documentation Change
+# Style     → Formatting (Whitespace, Semicolons, etc.)
+# Refactor  → Code Change That Neither Fixes a Bug nor Adds a Feature
+# Test      → Adding or Fixing Tests
+# Chore     → Changes to Build Process or Auxiliary Tools
+#
+# Optional Gitmoji Usage:
+#
+# ✨ feat     🐛 fix     📝 docs     🎨 style
+# ♻️ refactor  ✅ test     🔧 chore
+#
+# Examples
+#
+# ✨ feat(auth): add login form validation for admin and guest users
+# 🐛 fix(api): resolve timeout issue on fetchUser
+# 🎨 style(ui): update button spacing on mobile devices
+# 📝 docs(readme): add setup instructions for new developers
+# ♻️ refactor(helpers): simplify date conversion logic
+# ✅ test(login): add unit tests for failed login attempt
+# 🔧 chore(config): update eslint rules for code consistency

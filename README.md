@@ -14,6 +14,7 @@ Publicly available roadmap projects I follow weekly on GitHub:
 Covers C#, .NET, CODESYS, IoT, SCADA, and Computer Vision with a structured monthly curriculum.
 
 - My learning roadmap and public progress are tracked separately in a public GitHub repository:
+
 🔗 [**Industrial Fullstack Developer Roadmap**](https://github.com/ridvan-kahraman/industrial-fullstack-roadmap)
 
 ### 🔹 2. Daily Private Contribution Logs (`daily_log/`)
