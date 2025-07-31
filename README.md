@@ -29,7 +29,7 @@ Example Log:
 Architecture diagrams, module dependencies, and version history related to projects like Fire Truck TTL32, CANOpen Safety, SCADA HMI, and Sensor Diagnostics.
 
 ### 🔹 4. Documentation & References
-The docs/ folder includes project licenses, architectural decisions, and compliance materials for standards such as IEC 61508 and SIL-2.
+The `docs/` folder includes project licenses, architectural decisions, and compliance materials for standards such as IEC 61508 and SIL-2.
 
 ---
 
