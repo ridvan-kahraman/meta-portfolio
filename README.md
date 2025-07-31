@@ -1,6 +1,7 @@
 # Meta Portfolio
 
-**Purpose:** This repository serves as a **professional portfolio summary**, documenting both my public roadmap progress and contributions to private industrial projects.  
+**Purpose:** This repository serves as a **professional portfolio summary**, documenting both my public roadmap progress and contributions to private industrial projects.
+
 **Note:** No source code is shared here. Instead, this repo transparently records what I’ve worked on, what I’ve achieved, which roadmaps I’ve followed, and what competencies I’ve built.
 
 ---
@@ -10,7 +11,7 @@
 ### 🔹 1. Roadmaps
 Publicly available roadmap projects I follow weekly on GitHub:
 
-- **Industrial Fullstack Developer Roadmap (8 + 28 Months)**
+- **Industrial Fullstack Developer Roadmap (8 Months)**
 Covers C#, .NET, CODESYS, IoT, SCADA, and Computer Vision with a structured monthly curriculum.
 
 - My learning roadmap and public progress are tracked separately in a public GitHub repository:
