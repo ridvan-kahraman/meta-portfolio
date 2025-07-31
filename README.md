@@ -1,21 +1,21 @@
 # Meta Portfolio
 
-> **Purpose:** This repository serves as a **professional portfolio summary**, documenting both my public roadmap progress and contributions to private industrial projects.  
-> **Note:** No source code is shared here. Instead, this repo transparently records what I’ve worked on, what I’ve achieved, which roadmaps I’ve followed, and what competencies I’ve built.
+**Purpose:** This repository serves as a **professional portfolio summary**, documenting both my public roadmap progress and contributions to private industrial projects.  
+**Note:** No source code is shared here. Instead, this repo transparently records what I’ve worked on, what I’ve achieved, which roadmaps I’ve followed, and what competencies I’ve built.
 
 ---
 
 ## 📌 Contents
 
 ### 🔹 1. Roadmaps
-> Publicly available roadmap projects I follow weekly on GitHub:
+Publicly available roadmap projects I follow weekly on GitHub:
 
 - **Industrial Fullstack Developer Roadmap (8 + 28 Months)**
 Covers C#, .NET, CODESYS, IoT, SCADA, and Computer Vision with a structured monthly curriculum.
 
 ### 🔹 2. Daily Private Contribution Logs (`daily-log/`)
-> My daily contributions to private company projects are summarized here.  
-> **Source code is not shared**, but logs indicate which modules were worked on and what types of commits were made.
+My daily contributions to private company projects are summarized here.  
+**Source code is not shared**, but logs indicate which modules were worked on and what types of commits were made.
 
 Example Log:
 ```markdown
@@ -25,10 +25,10 @@ Example Log:
 - 🧩 Layer: InputService > SensorLib > FB_SensDiagBool
 
 ### 🔹 3. Industrial Project Notes
-> Architecture diagrams, module dependencies, and version history related to projects like Fire Truck TTL32, CANOpen Safety, SCADA HMI, and Sensor Diagnostics.
+Architecture diagrams, module dependencies, and version history related to projects like Fire Truck TTL32, CANOpen Safety, SCADA HMI, and Sensor Diagnostics.
 
 ### 🔹 4. Documentation & References
-> The docs/ folder includes project licenses, architectural decisions, and compliance materials for standards such as IEC 61508 and SIL-2.
+The docs/ folder includes project licenses, architectural decisions, and compliance materials for standards such as IEC 61508 and SIL-2.
 
 ---
 
