@@ -22,6 +22,8 @@ Covers C#, .NET, CODESYS, IoT, SCADA, and Computer Vision with a structured mont
 My daily contributions to private company projects are summarized here.  
 **Source code is not shared**, but logs indicate which modules were worked on and what types of commits were made.
 
+🔗 [**Daily Log**](https://github.com/ridvan-kahraman/meta-portfolio/tree/main/daily_log)
+
 Example Log:
 ```markdown
 # 🗂️ Daily Contribution Log — [August 2025]
@@ -34,6 +36,8 @@ Example Log:
 
 ### 🔹 3. Industrial Project Notes (`industrial_project_notes/`)
 Architecture diagrams, module dependencies, and version history related to projects like Fire Truck TTL32, CANOpen Safety, SCADA HMI, and Sensor Diagnostics.
+
+🔗 [**Industrial Project Notes**](https://github.com/ridvan-kahraman/meta-portfolio/tree/main/industrial_project_notes)
 
 ---
 
