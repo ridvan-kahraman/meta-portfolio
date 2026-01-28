@@ -2,9 +2,9 @@
 
 ## 📌 Purpose
 
-This repository serves as a **professional meta-portfolio**, documenting my long-term technical development, public roadmap progress, and contributions to private industrial projects.
+This repository serves as a **professional meta-portfolio**, documenting my long-term technical development, public roadmap progress, and contributions to private industrial projects.  
 
-It is designed to make **otherwise invisible engineering work visible**—without exposing proprietary code or violating NDAs.
+It is designed to make **otherwise invisible engineering work visible**—without exposing proprietary code or violating NDAs.  
 
 ---
 
@@ -14,11 +14,11 @@ It is designed to make **otherwise invisible engineering work visible**—withou
 - Technical Mentors
 - Engineers and Collaborators
 
-This repository provides evidence of **discipline, consistency, and system-level thinking** rather than source code.
+This repository provides evidence of **discipline, consistency, and system-level thinking** rather than source code.  
 
-> 🔒 **Important**
-> No proprietary source code is shared.
-> This repo transparently records what I’ve worked on, what I’ve achieved, what roadmaps I’ve followed, and which competencies I’ve built.
+> 🔒 **Important**  
+> No proprietary source code is shared.  
+> This repo transparently records what I’ve worked on, what I’ve achieved, what roadmaps I’ve followed, and which competencies I’ve built.  
 
 ---
 
@@ -26,47 +26,40 @@ This repository provides evidence of **discipline, consistency, and system-level
 
 ### 🔹 1. Roadmaps
 
-Publicly available roadmap projects I follow weekly on GitHub:
+Publicly available roadmap projects I follow weekly on GitHub:  
 
-- **Industrial Fullstack Developer Roadmap (12 Months)**
-Covers C#, .NET, CODESYS, IoT, SCADA, and Computer Vision with a structured monthly curriculum.
+- **Industrial Fullstack Developer Roadmap (12 Months)**  
+Covers C#, .NET, CODESYS, IoT, SCADA, and Computer Vision with a structured monthly curriculum.  
 
-Progress and learning artifacts are tracked in a separate public repository:
+Progress and learning artifacts are tracked in a separate public repository:  
 
-🔗 [**Industrial Fullstack Developer Roadmap**](https://github.com/ridvan-kahraman/industrial-fullstack-roadmap)
+🔗 [**Industrial Fullstack Developer Roadmap**](https://github.com/ridvan-kahraman/industrial-fullstack-roadmap)  
 
 ### 🔹 2. Daily Private Contribution Logs (`daily_log/`)
 
-Summarized daily records of work performed on **private industrial projects**.
+Summarized daily records of work performed on **private industrial projects**.  
 
-> 🔒 **Important**
-> No Source code is published.
-> Logs describe **modules, architectural layers, and problem domains**
-> Entries reflect real engineering activity while remaining NDA-compliant.
+> 🔒 **Important**  
+> No Source code is published.  
+> Logs describe **modules, architectural layers, and problem domains**.  
+> Entries reflect real engineering activity while remaining NDA-compliant.  
 
-🔗 [**Daily Log**](./daily_log/)
+🔗 [**Daily Log**](./daily_log/)  
 
 ---
 
 ## 🎯 Why This Repo Exists
-This repo makes my **invisible developer contributions** visible — offering clear proof of progress, discipline, and domain competence to collaborators, mentors, or employers.
 
-The code may be private—but **growth, discipline, and vision remain visible.**
+In industrial and safety-critical environments, most meaningful work cannot be shared publicly.  
 
-> “Effort is hidden, but its impact echoes.
-System building is more than code — it’s consistency, context, and contribution.”
-
-In industrial and safety-critical environments, most meaningful work cannot be shared publicly.
-
-This repository exists to:
+This repository exists to:  
 - Make **engineering effort and progression visible**.
 - Demonstrate **ownership, consistency, and architectural thinking**.
 - Provide context for private contributions without leaking IP.
 
-The code may be private,  
-but **growth, structure, and intent are transparent**.
+The code may be private, but **growth, structure, and intent are transparent**.  
 
-> *Systems are not built only with code, but with consistency, context, and sustained effort.*
+> *Systems are not built only with code, but with consistency, context, and sustained effort.*  
 
 ---
 
